@@ -1,2 +1,3 @@
-# minitalk_42cursus
-Communication program in the form of a client and a server in C
+# minitalk
+
+Data exchange program using UNIX signals in C programing langage.
